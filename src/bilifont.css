@@ -265,6 +265,10 @@
     content: "\E645"
 }
 
+.bili-icon_catalog::before {
+    content: "\E646";
+}
+
 .bili-digital:before {
     content: "\E64E"
 }
