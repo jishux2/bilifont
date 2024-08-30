@@ -1,5 +1,5 @@
 # bilifont
-哔哩哔哩（bilibili、b站）字体图标库 V1.0 (2020.10.27)
+为[此项目](https://github.com/molefish3614/bilifont)继续更新哔哩哔哩的字体图标库，`font`文件夹中存储目前B站使用的字体文件
 
 # 说明
 本字体图标于2020年10月27日取自bilibli主站，后续如果B站更新请联系本人更新
@@ -26,4 +26,4 @@
 
 # 贡献
 
-如果对本项目有问题或更好的优化建议，请提issue或称为贡献者，谢谢大家！
+如果对本项目有问题或更好的优化建议，请提issue。熟悉[FontForge](https://fontforge.org/en-US/)者也可自行添加所需图标。
